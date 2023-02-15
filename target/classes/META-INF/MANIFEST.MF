@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: Dioxide_CN
+Created-By: Apache Maven 3.8.1
+Build-Jdk: 1.8.0_333
+Main-Class: com.question.app.Application
+
